@@ -1,0 +1,29 @@
+Q.1]We want to list paintings that are priced higher than the average.
+
+Q.2]We want to list all collectors who purchased paintings from our gallery.
+
+Q.3]We want to see the total amount of sales for each artist who has sold at least one painting in our gallery.
+
+Q.4]We want to calculate the number of paintings purchased through our gallery.
+
+Q.5]We want to show the first names and the last names of the artists who had zero sales with our gallery.
+
+Q.6]Find painting name who has lowest listing price.
+
+Q.7]Find painting id whose sales happens between 1st nov 2021 to 15th nov 2021.
+
+Q.8]Show painting details whose name ends with 'n'.
+
+Q.9]Display collectors id whose name is 'Laura'.
+
+Q.10]Find sales details of artists whose id is 2.
+
+Q.11]Find count of sales happens for collector id 103.
+
+Q.12]Update artists name of artists id 3 set first name as 'Zika'.
+
+Q.13]Change column name of collectors set first_name to fname and last_name to lname.
+
+Q.14]Delete painting details whose id is 18.
+
+Q.15]delete complete data of sales.
